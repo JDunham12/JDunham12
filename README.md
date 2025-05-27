@@ -6,7 +6,7 @@
 
 **Outside of school...** I have had experience as a Full-Stack web dev and know my way around the ASP.NET framework and AngularJS.
 
-**When not coding...** I'm an ambitious ultra-cyclist who races for Team Athletic Mentors!
+**When not coding...** I'm reading, enjoy time with friends or hiking.
 
 The programming languages I'm most proficient in are: 
   - C#
