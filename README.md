@@ -4,11 +4,6 @@
   *Reader* of Philosophy and History <br><br>
   *Admirer* of great ideas
 
-**When not coding**
-  - I'm reading
-  - Enjoying time with friends
-  - Hiking
-
 **The programming languages I'm most proficient in are**
   1. Kotlin
   2. Java
