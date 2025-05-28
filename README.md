@@ -1,8 +1,8 @@
 ## 👋 Hey there, I'm Jared! 
 
-  *Developer* at [KPI Solutions](https://kpisolutions.com/) <br><br>
-  *Reader* of Philosophy and History <br><br>
-  *Admirer* of great ideas
+🧑‍💻 *Developer* at [KPI Solutions](https://kpisolutions.com/) <br><br>
+📖 *Reader* of Philosophy and History <br><br>
+💫 *Admirer* of great ideas
 
 **The programming languages I'm most proficient in are**
   1. Kotlin
