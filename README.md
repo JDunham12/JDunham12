@@ -1,4 +1,4 @@
-## Hey there, I'm Jared 👋 
+## 👋 Hey there, I'm Jared! 
 
 ### I began my career as an IT tech...
 but ended up enjoying programming so much that in 2019 I began an education in Computer Science.
